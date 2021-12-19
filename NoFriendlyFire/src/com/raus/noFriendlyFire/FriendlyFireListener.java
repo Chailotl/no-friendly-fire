@@ -1,4 +1,4 @@
-package com.raus.noFriendlyFire;
+package com.chai.noFriendlyFire;
 
 import org.bukkit.entity.AnimalTamer;
 import org.bukkit.entity.Projectile;

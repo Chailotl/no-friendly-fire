@@ -1,4 +1,4 @@
-package com.raus.noFriendlyFire;
+package com.chai.noFriendlyFire;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;

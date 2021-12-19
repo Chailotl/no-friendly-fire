@@ -1,4 +1,4 @@
-package com.raus.noFriendlyFire;
+package com.chai.noFriendlyFire;
 
 import java.util.HashMap;
 import java.util.UUID;

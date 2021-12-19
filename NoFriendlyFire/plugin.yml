@@ -1,7 +1,7 @@
 name: NoFriendlyFire
 description: No more accidentally hitting your pets!
-author: Raus
-main: com.raus.noFriendlyFire.Main
+author: Chai
+main: com.chai.noFriendlyFire.Main
 version: 1.0
 api-version: 1.15
 
