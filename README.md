@@ -5,7 +5,7 @@
 Do you ever accidentally hit, slash, or shoot your companion dog while fighting enemies? No more with this little plugin! (You can even toggle it off if you're that kind of a monster)
 
 <p align="center">
-  <img src="https://i.imgur.com/BVN7zeh.gif">
+  <img src="https://i.imgur.com/">
 </p>
 
 ## Usage
